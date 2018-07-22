@@ -6,4 +6,4 @@ We have a dataset that contains 1000 reviews in text format along with the senti
 The project is composed of 3 steps : Importing the libraries and data, cleaning and preparing the text and finally building the model.
 Each step is detailed in the notebook along with the results of each operations for every manipulation.
 
-Hope it's clean and enjoy!.
+Hope it's clear and enjoy!.
